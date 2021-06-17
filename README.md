@@ -3,7 +3,7 @@ Check qualitiy of transifex translations. We have two German locales, `de`
 and `de_DE` -- which we have to keep in sync. The strings are mostly identical
 in both locales, except where the user is directly addressed.
 
-The `de` locale addresses the user with an informal 'du' -- think community.
+The `de` locale addresses the user with an informal 'du' -- think community.  
 The `de_DE` locale uses the formal `Sie` to address the user -- think enterprise. 
 
 The transifex web UI does not offer any support for keeping two locales in sync. It is up to the translators
